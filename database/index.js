@@ -27,4 +27,3 @@ app.get('/query', (req, res) => {
 
 // listen on port
 app.listen(config.port, () => console.log(`Realm Database is listening on port ${config.port}!`))
-// add github account to your code
